@@ -3,7 +3,7 @@
 Experience the **BEST** Community Management System  
 Available on Web, Windows, Mac, Android and iOS  
 
-[Download SonoranCMS for MacOS](https://github.com/Sonoran-Software/SonoranCMS_MacOS/releases/latest/download/)  
+[Download SonoranCMS for MacOS](https://github.com/Sonoran-Software/SonoranCMS_MacOS/releases/latest/download/Sonoran-CMS-universal.dmg)  
 
 [Why Choose SonoranCMS?](https://info.sonorancms.com/why-choose-sonoran-cms/why-choose-sonoran-cms)  
 
